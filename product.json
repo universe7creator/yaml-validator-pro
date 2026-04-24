@@ -1,0 +1,19 @@
+{
+  "name": "YAML Validator Pro",
+  "slug": "yaml-validator-pro",
+  "tagline": "Validate YAML syntax, detect errors, and format YAML files with proper indentation",
+  "description": "Validate YAML syntax, detect errors, and format YAML files with proper indentation",
+  "price": "9",
+  "category": "Developer Tools",
+  "features": [],
+  "tech_stack": "Vercel + Node.js",
+  "status": "ready_to_deploy",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": null,
+  "deployed_cycle": null,
+  "checkout_url": null,
+  "spec_version": "1.0"
+}
